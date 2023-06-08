@@ -1,2 +1,2 @@
 # go-bookstore
-go trian
+go-lang server for CRUD
